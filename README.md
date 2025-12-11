@@ -8,7 +8,6 @@ This repository contains a beginner-friendly Jupyter Notebook to help you get st
 - Python fundamentals (variables, data types, loops, functions, etc.)  
 - Working with data structures (lists, dictionaries, sets)  
 - Intro to NumPy and Pandas  
-- Practice projects with real data  
 
 ## Requirements
 - Python 3.9+  
