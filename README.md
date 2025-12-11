@@ -21,9 +21,13 @@ This repository contains a beginner-friendly Jupyter Notebook to help you get st
     ```
 
 2. Clone this repository:
-
+   
+      ```bash
+   cd Desktop
+   ```
+   You can put it in any other folder like document, if you prefer.
    ```bash
-   git clone https://github.com/amandapada/intro-to-python-ds.git
+   git clone https://github.com/amandapada/intro-to-python-for-datascience.git
    ```
 3. Open the folder and start Jupyter Notebook:
 
